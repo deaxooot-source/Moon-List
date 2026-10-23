@@ -1,0 +1,6 @@
+{
+  "name": "Moon List",
+  "description": "قائمة مهام ذكية وسريعة وعصرية لإدارة المهام والمهام الفرعية بسهولة مع نمطي الأزرق والأبيض والأزرق والأسود.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
